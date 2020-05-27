@@ -4,4 +4,6 @@
 * awal dan akhir
 * expetced code
 */
-str = ''
+<?php
+
+?>
