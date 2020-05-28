@@ -47,3 +47,4 @@ foreach($boxs as $i => $box){
 }
 var_dump($boxs);
 var_dump(implode(".",$boxs));
+?>
